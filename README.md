@@ -3,7 +3,7 @@
 ## Project Overview
 This project presents an exploratory data analysis and visual storytelling exercise focused on logistics and transportation operations. Using a synthetic dataset, the analysis aims to extract operational and strategic insights related to delivery performance, profitability, efficiency, and empty trips.
 
-The final output is implemented as a **Tableau Story**, allowing a structured, narrative-driven exploration of key business questions.
+The final output is implemented as a **Tableau Story**, allowing a structured, narrative-driven exploration of key business questions: ([Story](https://public.tableau.com/app/profile/anna.estany.macia/viz/Practica2_17682542314680/Story1?publish=yes))
 
 The dataset can be found on Kaggle: [[Logistics Operations Database]](https://www.kaggle.com/datasets/yogape/logistics-operations-database)
 ---

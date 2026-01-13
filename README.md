@@ -5,6 +5,7 @@ This project presents an exploratory data analysis and visual storytelling exerc
 
 The final output is implemented as a **Tableau Story**, allowing a structured, narrative-driven exploration of key business questions.
 
+The dataset can be found on Kaggle: [[Logistics Operations Database]](https://www.kaggle.com/datasets/yogape/logistics-operations-database)
 ---
 
 ## Objectives
